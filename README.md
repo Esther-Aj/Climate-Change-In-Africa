@@ -1,7 +1,7 @@
 # Climate Change In Africa
 This report analyzes the state of climate change in Africa. It provides insights on the impact of climate change on African regions (with four countries, one from each African region, as case studies). 
 
-![Alt text]([hr_img_copy.jpg](https://github.com/Esther-Aj/Climate-Change-In-Africa))
+![Alt text]([[hr_img_copy.jpg](https://github.com/Esther-Aj/Climate-Change-In-Africa)](https://github.com/Esther-Aj/Climate-Change-In-Africa/blob/main/climate_change.jpg))
 
 Image from pexels
 

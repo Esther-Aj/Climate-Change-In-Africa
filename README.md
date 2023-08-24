@@ -47,5 +47,8 @@ These sheets contain the amount of CO2 by country and the industry responsible.
 | `ipcc_code_2006_for_standard_report_name` | The industry responsible for generating CO2 |
 
 
+### Analysis and insights
+
+
 ### Dashboard
 Interact with the dashboard [here](https://public.tableau.com/app/profile/esther.ajuzieogu/viz/Climate_change_16922692811560/Dashboard1)

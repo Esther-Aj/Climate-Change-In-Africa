@@ -49,6 +49,22 @@ These sheets contain the amount of CO2 by country and the industry responsible.
 
 ### Analysis and insights
 
+### Recommendations
+- Encourage both the residential and industrial sectors to switch to renewable energy sources including solar, hydroelectricity. 
+
+- Implementation of reforestation and afforestation practices as trees and forests are essential in removing CO2 from the atmosphere and reducing the effects of climate change.
+
+- Launch initiatives to raise public awareness of the effects of citizens' lifestyle choices on climate change. 
+
+- Encourage the use of sustainable farming methods that lessen emissions from livestock, limit the clearing of trees for agricultural development, and enhance soil management to capture carbon.
+
+- Invest in research and development of technologies and innovative renewable energy solutions tailored to African regions. 
+
+- Create financial incentives, subsidies, and tax breaks for industries and businesses that invest in emissions reduction technologies and practices. 
+
+- As urbanization continues, implement urban planning that reduces emissions, enhances energy efficiency, and improves air quality. 
+
+- Establish reliable reporting and monitoring systems to track the reduction of emissions across industries and geographical areas.
 
 ### Dashboard
 Interact with the dashboard [here](https://public.tableau.com/app/profile/esther.ajuzieogu/viz/Climate_change_16922692811560/Dashboard1)
